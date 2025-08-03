@@ -1,0 +1,42 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Jupyter Notebook checkpoints
+
+
+# Virtual Environment folders
+.venv/
+env/
+venv/
+ENV/
+
+# VS Code settings
+.vscode/
+
+# Data files (optional: keep if non-sensitive)
+data/
+*.csv
+*.xlsx
+
+# Model outputs & trace directories
+model_trace/
+outputs/
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Logs
+*.log
+
+# Mac & Linux system files
+.DS_Store
+Thumbs.db
+
+# Environment & dependency files (optional)
+.env
+*.env
