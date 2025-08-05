@@ -1,2 +1,6 @@
 pandas
 seaborn
+arviz
+pymc3
+Flask
+Flask-CORS
