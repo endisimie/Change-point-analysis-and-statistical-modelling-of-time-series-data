@@ -39,8 +39,6 @@ This project analyzes historical Brent crude oil prices to detect significant **
 
 ---
 
----
-
 ## ⚙️ How to Run the Project
 
 ### 🐍 Backend – Flask API
