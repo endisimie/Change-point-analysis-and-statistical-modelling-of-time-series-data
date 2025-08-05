@@ -1,6 +1,6 @@
 pandas
 seaborn
 arviz
-pymc3
+pymc
 Flask
 Flask-CORS
